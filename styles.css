@@ -1,23 +1,23 @@
 /*  your css code here. If applicable */
-#container{
-	height:900px;
-	width:1000px;
-	background:gray;
-	border-radius:10px;
-}
+ #animal-photos{
+	 background-color:#444444;
+	 justify-content:center;
+	height:500px;
+		
+ }
 
-#photo-heading{
-	color:white;
-	text-align:center;
-	padding-top:20px;
-}
+        #photo-heading {
+			align-items:center;
+            font-size: 30px;
+            margin-top: 20px;
+			color:white;
+			
+        }
 
-#animal-photos{
-	border-radius:10px;
-	display:flex;
-	flex-wrap:wrap;
-	padding-top:10px;
-	padding-bottom:30px;
-	padding-left:30px;
-	gap:20px;
-}
+        .animal-image {
+            margin: 10px;
+			height:120px;
+            border: 2px solid grey;
+            border-radius: 16px;
+			
+        }
