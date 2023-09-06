@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.container{
+	height:900px;
+	width:1000px;
+	background:gray;
+	border-radius:10px;
+}
+
+.asd{
+	border-radius:20px;
+	
+	
+}
+
+.ani{
+	color:white;
+	text-align:center;
+	padding-top:20px;
+}
+.photos{
+	
+	padding-top:10px;
+	padding-bottom:30px;
+	padding-left:30px;
+	
+	
+}
